@@ -10,7 +10,7 @@ namespace main;
 <body>
 <h1>Сайт на PHP</h1>
 <?php
-echo "1122";
+echo "1122s";
 ?>
 </body>
 </html>
